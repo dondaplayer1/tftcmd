@@ -11,7 +11,7 @@
 > - Send a weekly test
 > - Send a monthly test
 > - Originate alerts with a variety of different options (Pre-recorded audio, live patch audio)
-> - Gorman EOM button
+> - Send EOMs
 > - Remotely reboot the unit
 
 ## Requirements
@@ -32,3 +32,7 @@ When originating:
 - When asked for duration, you must lead with "0" for minutes. For example, "01" is 15 minutes.
 
 When recording audio or doing a live patch, the audio is recorded through Monitor 1.
+
+## Other things
+
+If you encounter an issue with the software, feel free to create an issue. If it's something you can fix, feel free to create a pull request and it will be reviewed in a timely manner.
